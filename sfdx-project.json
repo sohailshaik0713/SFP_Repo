@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Test",
+  "name": "SFP Setup",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "60.0"
